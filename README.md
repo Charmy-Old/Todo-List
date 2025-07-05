@@ -1,29 +1,17 @@
 # 備忘錄 Todo List
 
-### **- [作品連結](https://charmying.github.io/Todo-List/)**
-
-### **- [Codepen 連結](https://codepen.io/Charmy_ing/pen/RwBeNRz)**
-
-###### <br/>
-
-
-
-
+<br/>
 
 ## Skills
 
-- **HTML**
+- HTML
 
-- **CSS**
+- CSS
 
-- **JavaScript**
+- JavaScript
 
-###### <br/>
-
-
-
-
+<br/>
 
 ## Introduce
 
-**使用 HTML、CSS、JavaScript 寫出備忘錄，備忘錄輸入時需填入日期及時間並存入 localStorage，時間到時會彈窗提醒。**
+使用 HTML、CSS、JavaScript 寫出備忘錄，備忘錄輸入時需填入日期及時間並存入 localStorage，時間到時會彈窗提醒。
